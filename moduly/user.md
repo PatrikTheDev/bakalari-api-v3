@@ -102,7 +102,13 @@ API ```3.14.0```
       ]
     }
   ],
+  "FullUserName": "Příjmení Jméno",
   "SettingModules":{
+    "Komens": { "$type": "KomensModuleSettings", "UploadFolderVerified": true },
+    "Homeworks": {
+      "$type": "HomeworksModuleSettings",
+      "UploadFolderVerified": true
+    },
     "Common":{
       "$type":"CommonModuleSettings",
       "ActualSemester":{
