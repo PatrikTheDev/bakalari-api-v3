@@ -17,6 +17,7 @@ Všechny adresy [v seznamu endpointů](endpoints.md) začínají lomítkem. Čá
 * Online token generator – jednoduchý generátor tokenů pro API v1 i v3: https://ondrovywebovky.cz/token/
 * Java wrapper pro API v3: https://github.com/PanJohnny/Baka4J
 * [Plochý rozvrh](https://github.com/Tomsanik/plochy-rozvrh) – snadno dostupný, přehledný a aktuální rozvrh jako součást tapety plochy.
+* [Maturanti](https://apps.apple.com/cz/app/maturanti/id1587034879) - alternativní klient pro Bakaláře pro iOS se zaměřením na rychlost a přehlednost.
 
 ## Kam dál?
 
